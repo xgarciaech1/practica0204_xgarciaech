@@ -6,4 +6,4 @@ datos = {}
 Datos = ['nombre', 'edad', 'sexo', 'correo electronico', 'telefono']
 for i in Datos:
     datos[i] = input('dime tu ' + i)
-print(datos)
+    print(datos)
